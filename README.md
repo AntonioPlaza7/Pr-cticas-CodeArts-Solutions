@@ -56,7 +56,7 @@ Cada "draft issue" representa una tarea específica, funcionalidad implementada,
 * **Configuración y entorno:** `Documentación instalación Ubuntu`, `Instalación Docker y Docker Compose`, `Levantar proyecto en local`.
 * **Desarrollo Backend en C#:** `Desarrollo de función DeleteInvoice()`, `Manejo de excepciones no controladas`, `Implementación de usuarios`, `Implementación de loggers`.
 * **Desarrollo y soporte con Unity:** `Desarrollo de aplicación en Unity`, `Añadir funcionalidades aplicación Unity`, `Proyecto de gamificación hábitos diarios`.
-* **Documentación y Aprendizaje:** `Documentación Cuaderno prácticas FTC`, `Onboarding C#`, `Introducción a C# en Unity`.
+* **Documentación y Aprendizaje:** `Onboarding C#`, `Introducción a C# en Unity`.
 
 Te invito a explorar el Project Board para obtener una visión más detallada de mis responsabilidades y los resultados de mi trabajo.
 
