@@ -39,7 +39,7 @@ Mi experiencia se consolidó con el uso práctico de las siguientes herramientas
 * **Lenguajes:** C#
 * **Bases de Datos:** PostgreSQL
 * **Contenedores:** Docker
-* **Motor de Videojuegos (Contexto):** Unity (integración y desarrollo de funcionalidades, especialmente en aspectos de interfaz y lógica de aplicación)
+* **Motor de Videojuegos:** Unity (integración y desarrollo de funcionalidades, especialmente en aspectos de interfaz y lógica de aplicación)
 * **Control de Versiones:** Git, GitHub
 * **Entornos de Desarrollo:** VS Code
 * **Sistemas Operativos:** Linux (Ubuntu)
